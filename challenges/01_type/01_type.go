@@ -1,5 +1,7 @@
 package main
 
+// https://tutorialedge.net/challenges/go/type-assertions/
+
 import (
 	"fmt"
 )
